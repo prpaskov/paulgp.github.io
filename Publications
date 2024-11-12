@@ -1,0 +1,64 @@
+<!doctype html>
+<html>
+  <head>
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-XRJS89KHC7"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'G-XRJS89KHC7');
+    </script>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="chrome=1">
+    <title>Patricia Paskov</title>
+    <meta name="google-site-verification" content="lmkr8BGOClNks-UppIMVOyk6g1Fahx0bmxxYE5UlFNs" />
+    <link rel="stylesheet" href="stylesheets/styles.css">
+    <link rel="stylesheet" href="stylesheets/github-light.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+  </head>
+  <body>
+    <div class="wrapper">
+      <header>
+        <h1>Patricia Paskov</h1>
+        <p class="view"><img src="pppic.jpg" width=280 height=256></p>
+        <h3><p class="view"><a href="https://prpaskov.github.io/">Home</a></p></h3>
+        <h3><p class="view"><a href="https://prpaskov.github.io/Policy">About</a></p></h3>
+        <h3><p class="view"><a href="https://prpaskov.github.io/Policy">Publications</a></p></h3>
+        <h3><p class="view"><a href="https://prpaskov.github.io/CV">CV</a></p></h3>
+      </header>
+      <section>
+          <br>
+          <ul class="bibliography">
+    <li>
+        Paskov, P. et al. forthcoming. <cite>Making AI Safety Commitments Concrete</cite>. RAND.
+    </li>
+    <li>
+        Bucknall et al. forthcoming. <cite>AI Safety and Governance Research as a Global Public Good</cite>. University of Oxford.
+    </li>
+    <li>
+        Bucknall et al. forthcoming. <cite>What third-party system access provisions, if any, should be mandated by governments and how?</cite> University of Oxford.
+    </li>
+    <li>
+        Paskov, P. et al. 2024. <cite>GPAI Evaluations Standards Taskforce: Towards effective AI governance</cite>. RAND. (accepted to NeurIPS SoLaR and RegML workshops)
+    </li>
+    <li>
+        Vaillant, J., et al. 2022. <cite>Closing Gaps, Increasing Opportunities: Women's Economic Empowerment</cite>. World Bank Group.
+    </li>
+    <li>
+        World Bank. 2021. <cite>Europe and Central Asia Economic Update, Spring 2021: Data, Digitalization, and Governance</cite>.
+    </li>
+    <li>
+        Schuster, C., et al. 2020. "Responding to COVID-19 Through Surveys of Public Servants." <cite>Public Administration Review</cite>.
+    </li>
+    <li>
+        Buehren, N., et al. 2019. <cite>Ethiopia Gender Diagnostic Report: Priorities for Promoting Equity</cite>. World Bank Group.
+    </li>
+</ul>
+          </ul>
+      </section>
+    </div>
+    <script src="javascripts/scale.fix.js"></script>
+  </body>
+</html>
